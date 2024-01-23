@@ -7,4 +7,6 @@
 body {
   font-family: $ff-body;
   font-size: $fs-6;
+  background: linear-gradient(90deg, $black-gradient);
+  color: $white;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Playfair+Display:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Inter:wght@400;700;900&display=swap');
 
 $fs-0: 3.75rem; //60px
 $fs-1: 2.5rem; //40px
@@ -10,7 +10,7 @@ $fs-6: 1rem; //16px
 $fs-7: .875rem; //14px
 
 $ff-body: "Cormorant Garamond", sans-serif;
-$ff-heading: "Playfair Display", serif;
+$ff-heading: "Inter", serif;
 
 $fw-300: 300;
 $fw-400: 400;
@@ -19,4 +19,10 @@ $fw-700: 700;
 $fw-900: 900;
 
 $clr-primary: coral;
-$clr-secondry: navy;
+$clr-secondary: navy;
+
+$white: #fff;
+$purple: #7666ef;
+
+// Gradients
+$black-gradient: #191c27,#25293d,#191c27;
